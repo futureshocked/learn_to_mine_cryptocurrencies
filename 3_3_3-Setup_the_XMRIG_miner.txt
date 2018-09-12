@@ -1,4 +1,3 @@
-sudo apt-get install cmake libuv1-dev
 git clone https://github.com/xmrig/xmrig.git
 cd xmrig
 mkdir build
