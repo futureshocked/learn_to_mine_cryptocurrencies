@@ -7,7 +7,7 @@ cd ~
 
 # How to mine Bitcoin
  cd ~/cpuminer-multi
-./minerd -a sha256d -o stratum+tcp://eu.multipool.us:3332 -u <username> -p <worker>
+./minerd -a sha256d -o stratum+tcp://us.multipool.us:3332 -u <username> -p <worker>
 
 
 # How to mine Litecoin
