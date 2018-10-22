@@ -2,6 +2,6 @@
 "algo":"cryptonight","av":0,"background":false,"colors":true,"cpu-affinity":null,"cpu-priority":null,"donate-level":1,"log-file":null,"max-cpu-usage":95,
 "print-time":60,"retries":5,"retry-pause":5,"safe":false,"syslog":false,"threads":3,
 "pools":[{"url":"pool.supportxmr.com:3333","user":"<monero_wallet_address>",
-"pass":"<worker>","keepalive":true,"nicehash":false,"variant":1}],
+"pass":"<worker>","keepalive":true,"nicehash":false,"variant":-1}],
 "Api":{"port":0,"access-token":null,"worker-id":null}
 }
