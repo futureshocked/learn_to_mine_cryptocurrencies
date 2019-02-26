@@ -1,4 +1,4 @@
-cd ~
+cd ~/crypto
 git clone https://github.com/magi-project/m-cpuminer-v2
 cd m-cpuminer-v2
 ./autogen.sh
