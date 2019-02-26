@@ -1,27 +1,27 @@
 # Note
 For all the commands below we assume that you are located at the home directory of the 'pi' user.
 If you want to go to the home folder type this:
-cd ~
+cd ~/crypto
 
 # --------------
 
 # How to mine Bitcoin
- cd ~/cpuminer-multi
+ cd ~/crypto/cpuminer-multi
 ./minerd -a sha256d -o stratum+tcp://us.multipool.us:3332 -u <username> -p <worker>
 
 
 # How to mine Litecoin
- cd ~/cpuminer-multi
+ cd ~/crypto/cpuminer-multi
 ./minerd -a scrypt -o stratum+tcp://us.multipool.us:3334 -u <username> -p <worker>
 
 
 # How to mine Monero
-cd ~/xmrig/build/
+cd ~/crypto/xmrig/build/
 ./xmrig -c config_monero.json
 
 
 # How to mine ByteCoin
-cd ~/xmrig/build/
+cd ~/crypto/xmrig/build/
 ./xmrig -c config_bytecoin.json
 
 
@@ -30,5 +30,5 @@ cd ~/xmrig/build/
 
 
 # How to mine TurtleCoin
-cd ~/xmrig/build/
+cd ~/crypto/xmrig/build/
 ./xmrig -c config_turtlecoin.json
