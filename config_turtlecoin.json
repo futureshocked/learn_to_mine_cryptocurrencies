@@ -1,5 +1,5 @@
 {
-"algo":"cryptonight-lite","av":0,"background":false,"colors":true,"cpu-affinity":null,"cpu-priority":null,"donate-level":1,"log-file":null,"max-cpu-usage":95,
+"algo":"cryptonight-pico","av":0,"background":false,"colors":true,"cpu-affinity":null,"cpu-priority":null,"donate-level":1,"log-file":null,"max-cpu-usage":95,
 "print-time":60,"retries":5,"retry-pause":5,"safe":false,"syslog":false,"threads":3,
 "pools":[{"url":"trtl.pool.mine2gether.com:2225","user":"<turtle_wallet_address>",
 "pass":"<worker>","keepalive":true,"nicehash":false,"variant":1}],
