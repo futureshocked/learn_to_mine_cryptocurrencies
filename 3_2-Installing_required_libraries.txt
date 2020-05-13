@@ -7,6 +7,5 @@ libjansson-dev uthash-dev libncursesw5-dev libudev-dev \
 libusb-1.0-0-dev libevent-dev libmicrohttpd-dev openssl libssl-dev 
 sudo apt-get install cmake libuv1-dev
 sudo apt-get install autotools-dev
-sudo apt-get install automake
 sudo apt-get install pkg-config
 sudo apt-get install autoconf-archive
